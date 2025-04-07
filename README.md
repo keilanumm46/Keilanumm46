@@ -5,11 +5,22 @@
     <tr>
       <td width="80%">
         <p style="font-size: 18px;">
-          🌟 Desenvolvedora Frontend migrando para Backend <br>
-          🚀 Criando projetos como App de Estudos e Loja Online <br>
-          🌱 Aprendendo Backend com Node.js e NestJS <br>
-          🎨 Apaixonada por experiências criativas e acessíveis <br>
-        </p>
+
+  <h1>Seja bem-vindo(a) ao meu GitHub!</h1> 🚀  
+Atualmente, estou me dedicando ao desenvolvimento web e à criação de
+projetos que realmente fazem a diferença na vida das pessoas. Meu foco principal 
+está em Frontend  mas estou expandindo meus conhecimentos para Backend, para me tornar uma desenvolvedora cada vez mais completa.
+
+## 💡 Sobre mim
+
+- 🎨 Proativa e Apaixonada por soluções que proporcionem experiências incríveis.
+- 🖥️ Estudando Frontend diariamente, com foco em React, HTML, CSS e JavaScript.
+- 🧩 Criando projetos próprios como um **app de estudos e organização de rotina** para ajudar pessoas que lidam com procrastinação.
+- 🛍️ Também estou desenvolvendo uma **loja online**.
+- 🗂️ Em breve: mais projetos no portfólio e backend com Node.js e NestJS!
+  
+            
+   </p>
       </td>
       <td width="30%" align="center">
         <img src=".github/img/photo.png" alt="Descrição bonita" width="220" style="border-radius: 100px;">
