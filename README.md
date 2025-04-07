@@ -1,13 +1,21 @@
 <h1 align="center">Olá! Eu sou a Keila 👋</h1>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 16px; gap: 20px;">
-  <div align="left" style="max-width: 400px;">
-    🌟 Desenvolvedora Frontend migrando para Backend <br>
-    🚀 Criando projetos como App de Estudos e Loja Online <br>
-    🌱 Aprendendo Backend com Node.js e NestJS <br>
-    🎨 Apaixonada por experiências criativas e acessíveis <br>
-  </div>
-  <img src=".github/img/photo.png" alt="Descrição bonita" width="120" style="border-radius: 10px;"/>
+<div align="center">
+<table>
+    <tr>
+      <td width="80%">
+        <p style="font-size: 18px;">
+          🌟 Desenvolvedora Frontend migrando para Backend <br>
+          🚀 Criando projetos como App de Estudos e Loja Online <br>
+          🌱 Aprendendo Backend com Node.js e NestJS <br>
+          🎨 Apaixonada por experiências criativas e acessíveis <br>
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src=".github/img/photo.png" alt="Descrição bonita" width="220" style="border-radius: 100px;">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
