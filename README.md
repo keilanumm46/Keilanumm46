@@ -1,26 +1,14 @@
-
-
-
-
-  
-
 <h1 align="center">Olá! Eu sou a Keila 👋</h1>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom:16px">
-
-  <div align="left" style="margin-right: 20px;">
-    🌟 Estudante de Frontend migrando para Backend <br>
+<div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 16px; gap: 20px;">
+  <div align="left" style="max-width: 400px;">
+    🌟 Desenvolvedora Frontend migrando para Backend <br>
     🚀 Criando projetos como App de Estudos e Loja Online <br>
     🌱 Aprendendo Backend com Node.js e NestJS <br>
     🎨 Apaixonada por experiências criativas e acessíveis <br>
   </div>
-
-  <img src=".github/img/photo.png" alt="Descrição bonita" width="120" style="border-radius: 10px;">
-
+  <img src=".github/img/photo.png" alt="Descrição bonita" width="120" style="border-radius: 10px;"/>
 </div>
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header&text=Bem-vindos!&fontSize=30&fontColor=fff"/>
@@ -50,9 +38,8 @@
 
 ### 🚀 Projetos em destaque:
 
-- 🎯 **Organizador de Rotina e Estudos** — App para ajudar no combate à procrastinação com notificações e planos personalizados.
+- 🎯 **Organizador de Rotina e Estudos** — App para ajudar no combate à procrastinação com notificações e planos personalizados.  
 - 🛍️ **Loja Online** — Sistema de vendas com vitrine digital e painel de administração.
-
 
 ---
 
@@ -63,15 +50,13 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keilanumm46&layout=compact&theme=dracula"/>
 </p>
 
-
 ---
 
 ### 🌐 Vamos nos conectar!
 
 <p align="center">
   <a href="mailto:keilanunes046@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.linkedin.com/in/keila-nunes-devux/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+  <a href="https://www.linkedin.com/in/keila-nunes-devux/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -79,5 +64,3 @@
 </p>
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
-
-
