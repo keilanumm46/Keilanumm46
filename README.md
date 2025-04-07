@@ -4,19 +4,28 @@
 
   <h1 align="center">Olá! Eu sou a keila 👋</h1>
 
-<p align="center">
-  🌟 Estudante de Frontend migrando para Backend <br>
-  🚀 Criando projetos como App de Estudos e Loja Online <br>
-  🌱 Aprendendo Backend com Node.js e NestJS <br>
-  🎨 Apaixonada por experiências criativas e acessíveis <br>
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <p>
+      🌟 Estudante de Frontend migrando para Backend <br>
+      🚀 Criando projetos como App de Estudos e Loja Online <br>
+      🌱 Aprendendo Backend com Node.js e NestJS <br>
+      🎨 Apaixonada por experiências criativas e acessíveis <br>
+    </p>
+  </div>
+  
+  <div style="flex: 0.5; text-align: right;">
+    <img src=".github/img/photo.png" alt="Descrição bonita" width="120"/>
+  </div>
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header&text=Bem-vindos!&fontSize=30&fontColor=fff"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeuUsername&style=flat-square&color=9400D3" alt="visit count"/>
+  <img src="https://komarev.com/ghpvc/?username=Keilanumm46&style=flat-square&color=9400D3" alt="visit count"/>
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=flat-square"/>
 </p>
 
@@ -31,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
@@ -48,19 +57,10 @@
 ### 📊 Minhas estatísticas do GitHub:
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=dracula&count_private=true&hide=stars"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&theme=dracula"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Keilanumm46&show_icons=true&theme=dracula&count_private=true&hide=stars"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keilanumm46&layout=compact&theme=dracula"/>
 </p>
 
----
-<img src="[ChatGPT Image 6 de abr  de 2025, 21_04_18]"(https://github.com/user-attachments/assets/0674ce72-4328-48a5-9b14-0fbb9a46d148)
- alt="Descrição bonita" width="250"/>
-
-### ⚡ Snake dos commits animada!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/https://github.com/keilanumm46/Keilanumm46///https://github.com/keilanumm46/Keilanumm46/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
