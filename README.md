@@ -8,22 +8,22 @@
 
   <h1>Seja bem-vindo(a) ao meu GitHub!</h1> 🚀  
 Atualmente, estou me dedicando ao desenvolvimento web e à criação de
-projetos que realmente fazem a diferença na vida das pessoas. Meu foco principal 
-está em Frontend  mas estou expandindo meus conhecimentos para Backend, para me tornar uma desenvolvedora cada vez mais completa.
+projetos que realmente fazem a diferença na vida das pessoas. 
+aperfeiçoando conhecimento em Frontend  mas estou expandindo meus conhecimentos para Backend, para me tornar uma desenvolvedora cada vez mais completa.
 
 ## 💡 Sobre mim
 
 - 🎨 Proativa e Apaixonada por soluções que proporcionem experiências incríveis.
-- 🖥️ Estudando Frontend diariamente, com foco em React, HTML, CSS e JavaScript.
-- 🧩 Criando projetos próprios como um **app de estudos e organização de rotina** para ajudar pessoas que lidam com procrastinação.
-- 🛍️ Também estou desenvolvendo uma **loja online**.
+- 🖥️  Conhecimento em Frontend, com foco em React, HTML, CSS e JavaScript.
+- 🧩 Criando projetos próprios 
 - 🗂️ Em breve: mais projetos no portfólio e backend com Node.js e NestJS!
   
             
    </p>
       </td>
       <td width="30%" align="center">
-        <img src=".github/img/photo.png" alt="Descrição bonita" width="220" style="border-radius: 100px;">
+        <img src=".github/img/![EU](https://github.com/user-attachments/assets/89d91e31-0748-4fec-976a-0706ba821ad9)
+" alt="Descrição bonita" width="220" style="border-radius: 100px;">
       </td>
     </tr>
   </table>
@@ -55,7 +55,7 @@ está em Frontend  mas estou expandindo meus conhecimentos para Backend, para me
 
 ---
 
-### 🚀 Projetos em destaque:
+### 🚀 Projetos em Andamento:
 
 - 🎯 **Organizador de Rotina e Estudos** — App para ajudar no combate à procrastinação com notificações e planos personalizados.  
 - 🛍️ **Loja Online** — Sistema de vendas com vitrine digital e painel de administração.
