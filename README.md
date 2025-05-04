@@ -22,7 +22,7 @@ aperfeiçoando conhecimento em Frontend  mas estou expandindo meus conhecimentos
    </p>
       </td>
       <td width="30%" align="center">
-        <img src=".github/img/![EU]alt="Descrição bonita" width="220" style="border-radius: 100px;">
+        <img src=".github/img/photo.png" alt="Descrição bonita" width="120"/>
       </td>
     </tr>
   </table>
