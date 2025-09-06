@@ -4,7 +4,7 @@
 <table>
     <tr>
       <td width="80%">
-        <p style="font-size: 18px;">
+        <p style="font-size: 15px;">
 
   <h1>Desenvolvedora Java | Backend & Fullstack em formação!</h1> 🚀 
   Focada em  desenvolvimento de sistemas práticos  
