@@ -16,9 +16,7 @@
 - **Frontend:** React (em aprendizado)  
 - **Banco de dados:** PostgreSQL, H2  
 - **Ferramentas:** Git, Maven, VSCode, Postman 
-
-- 🎨 
-            
+          
    </p>
       </td>
       <td width="30%" align="center">
