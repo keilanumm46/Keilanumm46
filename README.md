@@ -6,18 +6,18 @@
       <td width="80%">
         <p style="font-size: 18px;">
 
-  <h1>Seja bem-vindo(a) ao meu GitHub!</h1> 🚀  
-Atualmente, estou me dedicando ao desenvolvimento web e à criação de
-projetos que realmente fazem a diferença na vida das pessoas. 
-aperfeiçoando conhecimento em Frontend  mas estou expandindo meus conhecimentos para Backend, para me tornar uma desenvolvedora cada vez mais completa.
+  <h1>Desenvolvedora Java | Backend & Fullstack em formação!</h1> 🚀 
+  Focada em  desenvolvimento de sistemas práticos  
+  Atualmente estudando **Java 21, Spring Boot, Spring Data JPA e React**  
+  Compartilho meus projetos, estudos e experiências aqui no GitHub
 
-## 💡 Sobre mim
+## 💡 Tecnologias que uso
+- **Backend:** Java, Spring Boot, Spring Data JPA  
+- **Frontend:** React (em aprendizado)  
+- **Banco de dados:** PostgreSQL, H2  
+- **Ferramentas:** Git, Maven, VSCode, Postman 
 
-- 🎨 Proativa e Apaixonada por soluções que proporcionem experiências incríveis.
-- 🖥️  Conhecimento em Frontend, com foco em React, HTML, CSS e JavaScript.
-- 🧩 Criando projetos próprios 
-- 🗂️ Em breve: mais projetos no portfólio e backend com Node.js e NestJS!
-  
+- 🎨 
             
    </p>
       </td>
@@ -51,13 +51,6 @@ aperfeiçoando conhecimento em Frontend  mas estou expandindo meus conhecimentos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
-
----
-
-### 🚀 Projetos em Andamento:
-
-- 🎯 **Organizador de Rotina e Estudos** — App para ajudar no combate à procrastinação com notificações e planos personalizados.  
-- 🛍️ **Loja Online** — Sistema de vendas com vitrine digital e painel de administração.
 
 ---
 
